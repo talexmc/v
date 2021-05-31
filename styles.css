@@ -754,6 +754,20 @@ hr {
     text-align: center;
 }
 
+.VF1 {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin 5%
+}
+.VF1 img {
+    margin: 0% 5%;
+    width: 90%;
+}
+.VF1 h3 {
+    margin: 0 5%;
+    text-align: center;
+}
+
 @media (max-width: 200px) {
 
 .nav-main img {
