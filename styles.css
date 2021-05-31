@@ -761,7 +761,8 @@ hr {
 }
 .VF1 img {
     margin: 0% 5%;
-    width: 90%;
+    width: 50%;
+    heigth: 25%;
 }
 .VF1 h3 {
     margin: 0 5%;
